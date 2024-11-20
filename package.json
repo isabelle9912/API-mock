@@ -1,0 +1,25 @@
+{
+  "name": "api-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelle9912/API-mock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabelle9912/API-mock/issues"
+  },
+  "homepage": "https://github.com/isabelle9912/API-mock#readme",
+  "dependencies": {
+    "env": "^0.0.2",
+    "json-server": "^0.17.1"
+  }
+}
