@@ -254,7 +254,7 @@
     {
       "id": 1,
       "name": "She-Ha",
-      "type": "admin",
+      "type": "entregador",
       "email": "she-ha@mail.com",
       "password": "123456",
       "image": "https://via.placeholder.com/100",
@@ -274,7 +274,7 @@
     {
       "id": 2,
       "name": "Jane Admin",
-      "type": "admin",
+      "type": "distribuidor",
       "email": "jane@mail.com",
       "password": "123456",
       "image": "https://via.placeholder.com/100",
