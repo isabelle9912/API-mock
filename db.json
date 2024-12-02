@@ -31,6 +31,32 @@
       "image": "https://via.placeholder.com/100"
     }
   ],
+  "banner": [
+    {
+      "id": 1,
+      "image": "https://via.placeholder.com/1980"
+    },
+    {
+      "id": "2",
+      "image": "https://via.placeholder.com/1980"
+    },
+    {
+      "id": "3",
+      "image": "https://via.placeholder.com/1980"
+    },
+    {
+      "id": "4",
+      "image": "https://via.placeholder.com/1980"
+    },
+    {
+      "id": "5",
+      "image": "https://via.placeholder.com/1980"
+    },
+    {
+      "id": "6",
+      "image": "https://via.placeholder.com/1980"
+    }
+  ],
   "foods": [
     {
       "id": "1",
@@ -39,7 +65,7 @@
       "time": "50-60 min",
       "delivery": 5.99,
       "rating": 4.8,
-      "image": "https://via.placeholder.com3100",
+      "image": "https://via.placeholder.com/300",
       "restaurantId": "1"
     },
     {
